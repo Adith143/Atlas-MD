@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/FantoX/Atlas-MD">
+<a href="https://github.com/Adith143/Atlas-MD">
     <img src="https://i.imgur.com/MClOeqe.jpeg">
   </a>
 
@@ -15,7 +15,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX/Atlas-MD/fork">
+  <a href="https://github.com/Adith143/Atlas-MD">
     <img src="https://img.shields.io/github/forks/FantoX/Atlas-MD?label=Fork&style=social">
     
     
